@@ -1,8 +1,6 @@
-# py-viation
-
 # 3 Days Data-Science & Analytics Workshop 
 
-## In the workshop organized and conducted by CODERS READY, we explored the power of mapping and data visualization using Python. Over the course of three days, we engaged in hands-on projects that allowed us to gain valuable insights into data representation and analysis. basically, application of python in field of aviation
+## In the workshop organized and conducted by CODERS READY, we explored the power of mapping and data visualization using Python. Over the course of three days, we engaged in hands-on projects that allowed us to gain valuable insights into data representation and analysis. Basically, we learnt about some applications in field of aviation using python.
 
 ## Key Topics Covered
 
@@ -24,7 +22,7 @@
 
 ## Libraries and Tools Used
 
-- NumPy: Essential for numerical operations and data manipulation.
+- <u>NumPy</u>: Essential for numerical operations and data manipulation.
 - SciPy: Used for scientific and technical computing, including statistical analysis.
 - Basemap: A library for cartographic projections and geospatial data visualization.
 - Matplotlib: The go-to library for creating static, animated, and interactive visualizations in Python.
