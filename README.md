@@ -22,8 +22,8 @@
 
 ## Libraries and Tools Used
 
-- <u>NumPy</u>: Essential for numerical operations and data manipulation.
-- SciPy: Used for scientific and technical computing, including statistical analysis.
-- Basemap: A library for cartographic projections and geospatial data visualization.
-- Matplotlib: The go-to library for creating static, animated, and interactive visualizations in Python.
-- Google Colab Notebooks: An interactive environment that allowed students to work on projects and visualize results step by step.
+- **NumPy**: Essential for numerical operations and data manipulation.
+- **SciPy**: Used for scientific and technical computing, including statistical analysis.
+- **Basemap**: A library for cartographic projections and geospatial data visualization.
+- **Matplotlib**: The go-to library for creating static, animated, and interactive visualizations in Python.
+- **Google Colab Notebook**: An interactive environment that allowed students to work on projects and visualize results step by step.
